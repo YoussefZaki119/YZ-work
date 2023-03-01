@@ -1,0 +1,2 @@
+A Chess game that is two players on two pcs it also has a chatting module.
+language used:assembly
